@@ -1,0 +1,11 @@
+{
+  "name": "mongo",
+  "connector": "mongodb",
+  "url": "mongodb+srv://ricardcutzh:ricardcutzh@cluster0-3lelk.mongodb.net/test?retryWrites=true&w=majority",
+  "host": "",
+  "port": 0,
+  "user": "",
+  "password": "",
+  "database": "",
+  "useNewUrlParser": true
+}
